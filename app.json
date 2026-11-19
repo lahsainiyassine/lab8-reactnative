@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tp8-images-styling",
+    "slug": "tp8-images-styling",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
